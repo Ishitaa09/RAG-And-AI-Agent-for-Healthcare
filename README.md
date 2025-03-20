@@ -1,2 +1,15 @@
-# RAG-And-AI-Agent-for-Healthcare
-MediCure - An AI-powered RAG system for analyzing healthcare PDFs &amp; CSVs using LangChain, FAISS, Groq API, and Streamlit. Enables context-aware Q&amp;A and insight extraction from medical data. 🚀🤖
+MediCure 🏥
+RAG & AI Agent for Healthcare
+MediCure is an AI-powered Retrieval-Augmented Generation (RAG) system designed to analyze healthcare documents, including PDFs and CSV files. It enables users to extract insights, answer questions, and interact intelligently with medical data.
+
+🚀 Features
+✔️ Upload and analyze healthcare PDFs and CSV files
+✔️ AI-powered question answering using Groq API & LangChain
+✔️ Advanced text and data processing with FAISS & HuggingFace embeddings
+✔️ Interactive Streamlit UI for seamless user experience
+
+🛠 Tech Stack
+Backend: LangChain, FAISS, Groq API
+Frontend: Streamlit
+Data Processing: HuggingFace Embeddings, PyMuPDF, Pandas
+Vector Storage: FAISS
