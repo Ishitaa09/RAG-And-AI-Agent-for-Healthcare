@@ -16,6 +16,6 @@ MediCure is an AI-powered Retrieval-Augmented Generation (RAG) system designed t
 - **Vector Storage:** FAISS  
 
 ## 📖 Usage
-- ** Upload a PDF or CSV file.
-- ** Enter your question in the input field.
-- ** Get AI-generated answers based on the document content.
+- Upload a PDF or CSV file.
+- Enter your question in the input field.
+- Get AI-generated answers based on the document content.
